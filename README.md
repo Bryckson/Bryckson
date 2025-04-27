@@ -1,0 +1,34 @@
+# ¡Hola! Soy Bryckson 👋
+
+🎓 Soy estudiante de segundo año de Ingeniería Informática, apasionado por la tecnología, Inteligencia Artificial y el desarrollo de software.
+
+🍞 Actualmente trabajo en el área de panadería, donde he desarrollado habilidades de constancia, responsabilidad y trabajo en equipo. 
+Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, con el objetivo de crecer profesionalmente en el área de TI.
+
+🛠️ Actualmente estoy aprendiendo y practicando:
+- Java y Spring Boot
+- MySQL y Oracle SQL
+- Desarrollo de APIs REST
+- Python
+- Fundamentos de HTML, CSS y JavaScript
+
+🏆 Certificaciones y logros:
+- Microsoft Certified: Azure AI Fundamentals ✅
+- Python Essentials 1 (Cisco Networking Academy) – Insignia obtenida ✅ (certificación en proceso)
+
+🚀 Proyectos personales destacados:
+- [Sistema de Gestión de Ventas de Panadería](#)  
+  *(Aplicación de escritorio en Java y MySQL para registrar ventas y calcular ingresos diarios)*
+
+- [App de Estudio de Verbos en Pasado](#)  
+  *(Aplicación Android para practicar verbos irregulares en inglés, con rondas de preguntas y puntaje)*
+
+📚 Notas sobre mis proyectos:
+Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje autodidacta, utilizando documentación oficial, recursos educativos y herramientas de apoyo basadas en inteligencia artificial.
+
+🎯 Mi objetivo actual:
+Integrarme a una empresa donde pueda aplicar mis conocimientos, seguir aprendiendo y contribuir al desarrollo de soluciones prácticas y eficientes.
+
+📫 ¿Charlamos?
+- Email: brycksong@gmail.com
+- [LinkedIn](#) 
