@@ -6,11 +6,11 @@
 Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, con el objetivo de crecer profesionalmente en el área de TI.
 
 🛠️ Actualmente estoy aprendiendo y practicando:
-- Java y Spring Boot
+- Scrum
 - MySQL y Oracle SQL
 - Desarrollo de APIs REST
 - Python
-- Fundamentos de HTML, CSS y JavaScript
+- Java y Spring Boot
 
 🏆 Certificaciones y logros:
 - Microsoft Certified: Azure AI Fundamentals ✅
