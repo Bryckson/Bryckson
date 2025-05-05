@@ -17,8 +17,8 @@ Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, c
 - Python Essentials 1 (Cisco Networking Academy) – Insignia obtenida ✅ (certificación en proceso)
 
 🚀 Proyectos personales destacados:
-- [Sistema de Gestión de Ventas de Panadería](#)  
-  *(Aplicación de escritorio en Java y MySQL para registrar ventas y calcular ingresos diarios)*
+🥖 [Sistema de Gestión de Ventas de Panadería](https://github.com/Bryckson/Panaderia)
+App de escritorio en Java + MySQL para registrar clientes, productos y pedidos en una panadería.
 
 - [App de Estudio de Verbos en Pasado](#)  
   *(Aplicación Android para practicar verbos irregulares en inglés, con rondas de preguntas y puntaje)*
