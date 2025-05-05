@@ -18,7 +18,7 @@ Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, c
 
 🚀 Proyectos personales destacados:
 
-🥖 [Sistema de Gestión de Ventas de Panadería](https://github.com/Bryckson/Panaderia)
+- 🥖 [Sistema de Gestión de Ventas de Panadería](https://github.com/Bryckson/Panaderia)
 App de escritorio en Java + MySQL para registrar clientes, productos y pedidos en una panadería.
 
 - [App de Estudio de Verbos en Pasado](#)  
