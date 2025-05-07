@@ -1,6 +1,6 @@
 # ¡Hola! Soy Bryckson 👋
 
-🎓 Soy estudiante de segundo año de Ingeniería Informática, apasionado por la tecnología, Inteligencia Artificial y el desarrollo de software.
+🎓 Soy estudiante de segundo año de Ingeniería Informática, con interés en la tecnología, la Inteligencia Artificial y la resolución de problemas mediante herramientas digitales.
 
 🍞 Actualmente trabajo en el área de panadería, donde he desarrollado habilidades de constancia, responsabilidad y trabajo en equipo. 
 Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, con el objetivo de crecer profesionalmente en el área de TI.
