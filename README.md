@@ -14,7 +14,7 @@ Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, c
 
 🏆 Certificaciones y logros:
 - Microsoft Certified: Azure AI Fundamentals
-🔗 [Ver certificado](✅https://www.credly.com/badges/46fa9c3f-1661-4267-b966-18b97088f760)
+🔗 [Ver certificado](https://www.credly.com/badges/46fa9c3f-1661-4267-b966-18b97088f760)
 - Python Essentials 1 (Cisco Networking Academy) – Insignia obtenida ✅ (certificación en proceso)
 - Google AI Essentials (Coursera – Google & Talento Digital) ✅
 Incluye: Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly y Stay Ahead of the AI Curve
