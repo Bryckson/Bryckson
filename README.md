@@ -15,6 +15,9 @@ Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, c
 🏆 Certificaciones y logros:
 - Microsoft Certified: Azure AI Fundamentals ✅
 - Python Essentials 1 (Cisco Networking Academy) – Insignia obtenida ✅ (certificación en proceso)
+- Google AI Essentials (Coursera – Google & Talento Digital) ✅
+Incluye: Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly y Stay Ahead of the AI Curve
+🔗 [Ver certificado](https://coursera.org/share/215b7cd5cd8959a5f493b6460b7fe0b9)
 
 🚀 Proyectos personales destacados:
 
