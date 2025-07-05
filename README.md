@@ -23,6 +23,9 @@ App de escritorio en Java + MySQL para registrar clientes, productos y pedidos e
 
 - [App de Estudio de Verbos en Pasado](#)  
   *(Aplicación Android para practicar verbos irregulares en inglés, con rondas de preguntas y puntaje)*
+  
+- 🧩[ Proyecto Fullstack - EcoMarket+](#)
+Simulación de desarrollo backend con Spring Boot, MySQL, Swagger y pruebas unitarias con JUnit/Mockito.
 
 📚 Notas sobre mis proyectos:
 Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje autodidacta, utilizando documentación oficial, recursos educativos y herramientas de apoyo basadas en inteligencia artificial.
