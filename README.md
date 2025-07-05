@@ -31,8 +31,7 @@ App de escritorio en Java + MySQL para registrar clientes, productos y pedidos e
 - 🧩[ Proyecto Fullstack - EcoMarket+](https://github.com/Bryckson/trabajo-fullstack-experiencia-profesional)
 Simulación de desarrollo backend con Spring Boot, MySQL, Swagger y pruebas unitarias con JUnit/Mockito.
 
-📚 Notas sobre mis proyectos:
-Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje autodidacta, utilizando documentación oficial, recursos educativos y herramientas de apoyo basadas en inteligencia artificial.
+📚 Notas sobre mis proyectos: Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje autodidacta y también como parte de las asignaturas cursadas en mi formación académica en el instituto. Para ello utilicé documentación oficial, recursos educativos y herramientas de apoyo basadas en inteligencia artificial.
 
 🎯 Mi objetivo actual:
 Integrarme a una empresa donde pueda aplicar mis conocimientos, seguir aprendiendo y contribuir al desarrollo de soluciones prácticas y eficientes.
