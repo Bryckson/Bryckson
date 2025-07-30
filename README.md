@@ -38,4 +38,4 @@ Integrarme a una empresa donde pueda aplicar mis conocimientos, seguir aprendien
 
 📫 ¿Charlamos?
 - Email: brycksong@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/bryckson-gutierrez-87b350373/) 
+- [LinkedIn](https://www.linkedin.com/in/bryckson-gutierrez) 
