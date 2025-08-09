@@ -47,7 +47,7 @@ Estos son algunos de los proyectos que he desarrollado para aplicar y afianzar m
 
 <br>
 
-##📝 Notas sobre mis proyectos:
+📝 Notas sobre mis proyectos:(/n) 
 Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje y también como parte de las asignaturas cursadas en mi formación académica. Me apoyo en documentación oficial, recursos educativos y herramientas de inteligencia artificial.
 
 
