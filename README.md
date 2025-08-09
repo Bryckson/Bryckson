@@ -50,7 +50,6 @@ Estos son algunos de los proyectos que he desarrollado para aplicar y afianzar m
 ##📝 Notas sobre mis proyectos:
 Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje y también como parte de las asignaturas cursadas en mi formación académica. Me apoyo en documentación oficial, recursos educativos y herramientas de inteligencia artificial.
 
-<br>
 
 ## 📚 Formación adicional:
 Actualmente participo en el programa Oracle Next Education (ONE) en alianza con Alura LATAM, dentro del plan de formación:
