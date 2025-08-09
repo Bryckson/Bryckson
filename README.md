@@ -65,7 +65,7 @@ Actualmente participo en el programa Oracle Next Education (ONE) en alianza con 
 
 ## 🎯 Mis Próximos Pasos
 
-Estoy enfocado en seguir aprendiendo y estoy buscando activamente una primera oportunidad laboral (prácticas o puesto junior) donde pueda contribuir con mi entusiasmo y continuar mi desarrollo en un entorno profesional.
+Estoy enfocado en seguir aprendiendo y estoy buscando activamente una primera oportunidad laboral (puesto junior) donde pueda contribuir con mi entusiasmo y continuar mi desarrollo en un entorno profesional.
 
 <br>
 
