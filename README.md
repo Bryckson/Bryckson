@@ -1,69 +1,71 @@
-# ¡Hola! Soy Bryckson 👋
+# ¡Hola! Soy Bryckson Gutiérrez 👋
 
-🎓 Soy estudiante de segundo año de Ingeniería Informática, con interés en la tecnología, la Inteligencia Artificial y la resolución de problemas mediante herramientas digitales.
+<br>
 
-🍞 Actualmente trabajo en otro rubro, donde he desarrollado habilidades de constancia, responsabilidad y trabajo en equipo. 
-Estoy en proceso de expandir mis horizontes hacia el mundo de la informática, con el objetivo de crecer profesionalmente en el área de TI.
+Estudiante de segundo año de **Ingeniería Informática** y desarrollador backend en formación, apasionado por la **Inteligencia Artificial** y la creación de soluciones tecnológicas eficientes. Mi objetivo es aplicar mis habilidades para resolver problemas reales y crecer profesionalmente en un equipo de TI innovador.
 
-🛠️ Actualmente estoy aprendiendo y practicando:
-- Scrum
-- MySQL y Oracle SQL
-- Desarrollo de APIs REST
-- Python
-- Java y Spring Boot
-- JavaScript básico (en curso)
+He desarrollado una sólida ética de trabajo, responsabilidad y colaboración en mi experiencia laboral actual, habilidades que ahora aplico en mi transición al sector tecnológico.
 
-📚 Formación adicional:
-Actualmente participo en el programa **Oracle Next Education (ONE)** en alianza con **Alura LATAM**, dentro del plan de formación:  
-✔️ Desarrollo Personal G9 – completado  
-📘 Principiante en Programación G9 – en curso...
+<br>
 
-🏆 Licencias y certificaciones destacadas:
+## 🚀 Mi Stack Tecnológico
 
-- **Microsoft Certified: Azure AI Fundamentals**  
-  *Microsoft – Oct. 2024*  
-  [Ver credencial](https://www.credly.com/badges/46fa9c3f-1661-4267-b966-18b97088f760)
+| Lenguajes de Programación | Frameworks y Librerías | Bases de Datos | Herramientas y Plataformas |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" /> | <img src="https://skillicons.dev/icons?i=spring,maven" /> | <img src="https://skillicons.dev/icons?i=mysql,oracle" /> | <img src="https://skillicons.dev/icons?i=git,github,azure,postman,swagger,idea" /> |
 
-- **Google AI Essentials**  
-  *Google / Coursera – Jun. 2025*  
-  [Ver credencial](https://coursera.org/share/215b7cd5cd8959a5f493b6460b7fe0b9)
+<br>
 
-- **Python Essentials 1**  
-  *Cisco Networking Academy – En curso*  
-  Insignia obtenida – certificado en proceso
+## 🏆 Proyectos Destacados
 
-- **Google Prompting Essentials**  
-  *Coursera – Jul. 2025*  
-  [Ver credencial](https://www.credly.com/badges/aa6343b4-1099-4c99-81e8-a83b4c587c63/linked_in_profile)
+<table>
+<tr>
+<td width="50%">
+  <h3>API REST para E-commerce | Backend con Spring Boot y Java</h3>
+  <p>Backend funcional para una plataforma de comercio electrónico, enfocado en la gestión de productos, usuarios e inventario. Diseñado con una arquitectura limpia y principios REST.</p>
+  <strong>Tecnologías:</strong> Java, Spring Boot, MySQL, Spring Security, Swagger, JUnit, Mockito.
+  <br>
+  <br>
+  <a href="https://github.com/Bryckson/trabajo-fullstack-experiencia-profesional" target="_blank"><strong>Ver Repositorio ➔</strong></a>
+  <!-- <a href="[LINK AL DESPLIEGUE EN VIVO]" target="_blank"><strong>Ver API en vivo ➔</strong></a> -->
+</td>
+<td width="50%">
+  <h3>Sistema de Gestión para Panadería | App de Escritorio</h3>
+  <p>Aplicación de escritorio full-stack para administrar las operaciones diarias de una panadería, incluyendo registro de clientes, gestión de productos y procesamiento de pedidos.</p>
+  <strong>Tecnologías:</strong> Java, Swing (GUI), MySQL.
+  <br>
+  <br>
+  <a href="https://github.com/Bryckson/Panaderia" target="_blank"><strong>Ver Repositorio ➔</strong></a>
+  <!-- AÑADE AQUÍ LA IMAGEN O GIF DE TU APP -->
+</td>
+</tr>
+</table>
 
-- **Lógica de programación: sumérgete en la programación con JavaScript**  
-  *Alura LATAM / Oracle Next Education – Jul. 2025*  
-  [Ver certificado](https://app.aluracursos.com/certificate/9d8d6e4a-4ddd-40de-8280-aa177a12ec0a)
+<br>
 
-- **Formación Desarrollo Personal G9 – ONE**  
-  *Alura LATAM – Jul. 2025*  
-  [Ver certificado](https://app.aluracursos.com/degree/certificate/37595de0-165c-4a4b-a16b-54951e0021bb?lang)
+## 🎓 Mi Ruta de Aprendizaje y Certificaciones Clave
 
-🚀 Proyectos personales destacados:
+Actualmente estoy fortaleciendo mis habilidades a través del programa **Oracle Next Education (ONE)** en alianza con **Alura LATAM**. Mis certificaciones más relevantes incluyen:
 
-- 🥖 [Sistema de Gestión de Ventas de Panadería](https://github.com/Bryckson/Panaderia)  
-  App de escritorio en Java + MySQL para registrar clientes, productos y pedidos en una panadería.
+-   **Microsoft Certified: Azure AI Fundamentals** - *Microsoft*
+-   **Google AI Essentials** - *Google / Coursera*
+-   **Python Essentials 1** - *Cisco Networking Academy*
+-   **Git y GitHub: repositorio, commit y versiones** - *Alura LATAM*
+-   **Lógica de programación con JavaScript** - *Alura LATAM / ONE*
 
-- 🎮 [Juego "Adivina el Número" en JavaScript](https://github.com/Bryckson/adivina-el-numero-js)  
-  Mini juego desarrollado como parte del curso de lógica de programación de ONE y Alura LATAM.
+<br>
 
-- 📚 [App de Estudio de Verbos en Pasado](#)  
-  *(Aplicación Android para practicar verbos irregulares en inglés, con rondas de preguntas y puntaje)*
+## 🎯 Mi Enfoque Actual
 
-- 🧩 [Proyecto Fullstack - EcoMarket+](https://github.com/Bryckson/trabajo-fullstack-experiencia-profesional)  
-  Simulación de desarrollo backend con Spring Boot, MySQL, Swagger y pruebas unitarias con JUnit/Mockito.
+1.  **Profundizar en Spring Boot:** Explorando módulos avanzados como Spring Security y Spring Data JPA.
+2.  **Desarrollo Frontend:** Aplicando mis conocimientos de JavaScript para construir interfaces que consuman mis propias APIs.
+3.  **Búsqueda Activa:** Buscando mi primera oportunidad laboral en el área de TI donde pueda aportar valor y continuar mi aprendizaje.
 
-📝 Notas sobre mis proyectos:  
-Cada proyecto fue desarrollado como parte de mi proceso de aprendizaje autodidacta y también como parte de las asignaturas cursadas en mi formación académica. Me apoyo en documentación oficial, recursos educativos y herramientas de inteligencia artificial.
+<br>
 
-🎯 Mi objetivo actual:  
-Integrarme a una empresa donde pueda aplicar mis conocimientos, seguir aprendiendo y contribuir al desarrollo de soluciones prácticas y eficientes.
+## 📫 ¿Conectamos?
 
-📫 ¿Charlamos?
-- Email: brycksong@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/bryckson-gutierrez)
+¡Estoy abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme.
+
+-   **Email:** brycksong@gmail.com
+-   **LinkedIn:** [https://www.linkedin.com/in/bryckson-gutierrez](https://www.linkedin.com/in/bryckson-gutierrez)
